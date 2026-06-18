@@ -1,34 +1,72 @@
-# Hi, I am Marcos Junior
+# Marcos Junior
 
-Software developer from Brazil, focused on building useful applications, automation tools, and clean project foundations.
+DevOps Engineer with 4+ years of experience working with cloud infrastructure, CI/CD, Kubernetes, infrastructure as code, observability, automation, and DevSecOps practices.
 
-I use GitHub to organize my learning, publish experiments, and turn small ideas into working software.
+I currently work at Fugro, supporting engineering teams by building and improving delivery pipelines, cloud environments, deployment standards, repository governance, and internal automation.
 
-## What I Am Working On
+## Focus
 
-- Building a stronger public portfolio
-- Improving full-stack development skills
-- Writing clearer documentation for every project
-- Practicing cleaner code, testing, and deployment workflows
+I help teams deliver software in a safer, faster, and more reliable way by connecting infrastructure, security, and development practices into practical engineering solutions.
 
-## Tools And Technologies
+My main areas of interest are:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+- Platform Engineering
+- Site Reliability Engineering
+- Developer Experience
+- Secure software delivery
+- Internal tools that reduce operational friction
+- Engineering standards that improve visibility and maturity
+
+## Experience
+
+- Cloud infrastructure and environment management
+- CI/CD pipeline design and improvement
+- Kubernetes operations and deployment standards
+- Infrastructure as code with Terraform
+- Repository governance and automation
+- Observability with metrics, dashboards, and alerting
+- DevSecOps practices and vulnerability scanning
+- Developer workflow automation
+
+## Technologies
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=fff)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=fff)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
-## Portfolio Roadmap
+## Tools And Practices
 
-| Area | Goal |
+| Area | Tools and practices |
 | --- | --- |
-| Web apps | Publish polished projects with clear screenshots and setup steps |
-| Automation | Build small tools that remove repetitive work |
-| Backend | Practice APIs, databases, authentication, and deployment |
-| Documentation | Keep each repository easy to understand and run |
+| Cloud | AWS, Azure, cloud environments, deployment standards |
+| Infrastructure | Terraform, Kubernetes, infrastructure as code |
+| CI/CD | GitHub Actions, delivery pipelines, automation |
+| Observability | Prometheus, Grafana, dashboards, operational visibility |
+| DevSecOps | SonarQube, Semgrep, Gitleaks, Dependabot, vulnerability scanning |
+| Governance | Repository standards, automation, engineering maturity |
+
+## Personal Projects
+
+Outside of my day-to-day work, I build and study projects around:
+
+- Kubernetes homelabs
+- Observability stacks
+- Developer portals
+- GitHub and Jira automations
+- Vulnerability scanning
+- Kafka experiments
+- Platform-oriented tooling
+
+## Direction
+
+My goal is to keep growing as a Senior DevOps/SRE professional, creating systems, standards, and platforms that make engineering teams more productive, resilient, and confident.
 
 ## GitHub Activity
 
